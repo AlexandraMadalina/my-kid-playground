@@ -1,3 +1,3 @@
 # my-kid-playground
 
-https://github.com/AlexandraMadalina/my-kid-playground.git
+https://alexandramadalina.github.io/my-kid-playground/
