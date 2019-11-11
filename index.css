@@ -1,29 +1,53 @@
 body {
   font-size: 59px;
-  background-color: lightgreen
+  background-color: lightgreen;
+  text-align: center;
 }
 
 .darius {
   font-size: 85px;
   color: gold;
-  text-align: center;
+  text-shadow: 6px 6px black;
+}
+
+.darius:hover {
+  font-size: 100px;
+  background-color: blueviolet;
+}
+
+.twee {
+  text-shadow: 6px 6px red;
+  color: green;
 }
 
 .fortnite {
   font-size: 65px;
   color: blue;
-  text-align: center;
+  text-shadow: 6px 6px red;
 }
 
 .csart13 {
   font-size: 75px;
   color: green;
-  text-align: center;
+  text-shadow: 6px 6px red;
 }
 
 .beste-spel-ooit {
   font-size: 55px;
-  color: pink;
-  text-align: center;
-  text-shadow: 3px 2px gold
+  color: blue;
+  text-shadow: 6px 6px red;
+}
+
+.team {
+  color: gold;
+  text-shadow: 6px 6px black;
+}
+
+.top2 {
+  color: blue;
+  text-shadow: 6px 6px red;
+}
+
+.top2:hover {
+  transform: scale(2);
 }
